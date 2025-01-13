@@ -43,4 +43,4 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan Project React JS ini:
    http://127.0.0.1:5173
    ```
 
-#### Aplikasi dapat buka pada link berikut : https://test.com
+#### Aplikasi dapat buka pada link berikut : https://rad-squirrel-14e0a8.netlify.app/
